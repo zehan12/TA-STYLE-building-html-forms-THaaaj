@@ -127,3 +127,11 @@ strong{
     color: red;
 }
 
+.white{
+    color: white;
+}
+
+.pad{
+    padding-top: 30px;
+    padding-left: 10px;
+}
